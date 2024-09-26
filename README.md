@@ -15,8 +15,5 @@ Prerequisites
 Current Status
 In the development of this project, I have faced some heavy issues with this dataset. These are formatting mistakes in the JSONL file. These defects caused failure in parsing and processing data successfully.
 
-Impact on the Project
-Due to these issues, I have not been able to run the Clustering Algorithms, and illustrate that clustering has taken place. The scripts are runable, but they need a correctly formatted dataset in order to test them.
-
 Next Steps
-I tried working on fixing up the dataset issues; however, no revelent progress seems to have taken place if any of you have experience with JSONL data or would like to contribute, help would be most welcome on this end.
+I tried working on fixing up the dataset issues; next steps are to debug and test. 
